@@ -1,0 +1,1292 @@
+[
+    {
+        "id": 1,
+        "Dokho": 1,
+        "Quiz": "Tìm x: x*1=3",
+        "x": "3",
+        "y":"",
+        "z":""
+
+    },
+    {
+        "id": 2,
+        "Dokho": 2,
+        "Quiz": "Giải hệ phương trình: x+y=5 ;x-y=15",
+        "x": "10",
+        "y": "-5",
+        "z":""
+    },
+    {
+        "id": 3,
+        "Dokho": 1,
+        "Quiz": "Tìm x: x+1=3",
+        "x": "2",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 4,
+        "Dokho": 1,
+        "Quiz": "Tìm x: 1+2+3+4+5+x = -5",
+        "x": "-20",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 5,
+        "Dokho": 3,
+        "Quiz": "Matt hates people who tell lies and X do I.",
+        "x": "so",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 6,
+        "Dokho": 1,
+        "Quiz": "Qúa khứ của Read",
+        "x": "read",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 7,
+        "Dokho": 2,
+        "Quiz": "Nếu chỉ có một que diêm, trong một ngày mùa đông giá rét, bạn bước vào căn phòng có một cây đèn, một bếp dầu, và một bếp củi, bạn thắp gì trước tiên?",
+        "x": "que diêm",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 8,
+        "Dokho": 2,
+        "Quiz": "2 con vịt đi trước 2 con vịt, 2 con vịt đi sau 2 con vịt, 2 con vịt đi giữa 2 con vịt. Hỏi có mấy con vịt?",
+        "x": "4",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 9,
+        "Dokho": 2,
+        "Quiz": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
+        "x": "than",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 10,
+        "Dokho": 2,
+        "Quiz": "Lịch nào dài nhất?",
+        "x": "lịch sử",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 11,
+        "Dokho": 3,
+        "Quiz": "Có bao nhiêu chữ C trong câu sau đây: “Cơm, canh, cháo gì tớ cũng thích ăn!",
+        "x": "1",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 12,
+        "Dokho": 3,
+        "Quiz": "Cái gì tay trái cầm được còn tay phải cầm không được?",
+        "x": "tay phải",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 13,
+        "Dokho": 3,
+        "Quiz": "x = y + z ; 2y = 2x - z; x + y + z = 3",
+        "x": "3/2",
+        "y":"3/2",
+        "z":"0"
+    },
+    {
+        "id": 14,
+        "Dokho": 3,
+        "Quiz": "Số tiếp theo trong dãy là số nào 8, 20, 44, 92, ...",
+        "x": "188",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 15,
+        "Dokho": 3,
+        "Quiz": "Một người phụ nữ nói mình sẽ bước vào tuổi 30 khi năm 2000, nhưng vào năm 2010 tuổi của cô ấy là 20. Khi cô ấy 40 tuổi thì vào năm nào? (Ghi rõ kết quả)",
+        "x": "1990 trước công nguyên",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 16,
+        "Dokho": 3,
+        "Quiz": "Số tiếp theo trong dãy số dưới đây là số mấy? 5, 16, 49, 104, ?",
+        "x": "181",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 17,
+        "Dokho": 3,
+        "Quiz": "Có người trung liệt sáng ngời / Quyết không khuất phục bọn người ngoại xâm / Xé đồ băng bó vết thương / Nhịn ăn mà chết, chọn đường tự do?",
+        "x": "nguyễn tri phương",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 18,
+        "Dokho": 3,
+        "Quiz": "Còn ai khỏe mạnh phi thường / Nhổ cây to, đánh dẹp phường hại dân/ Làm quan trừ kẻ loạn thần / Về sau lại phá tan quân Chiêm Thành?",
+        "x": "lê phụng hiểu",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 19,
+        "Dokho": 3,
+        "Quiz": "Còn ai học vấn uyên thâm / Nho, y, lý, số mười phân vẹn mười / Sùng chính viện mới ra đời / Công trình dịch thuật nửa đời tiêu tan?",
+        "x": "nguyễn thiếp",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 20,
+        "Dokho": 3,
+        "Quiz": "Một xin rửa sạch thù nhà / Hai xin nối lại nghiệp xưa họ Hùng / Ba kẻo oan ức lòng chồng / Bốn xin vỏn vẹn sở công lênh này?",
+        "x": "trưng trắc",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 21,
+        "Dokho": 3,
+        "Quiz": "Vốn người có tiếng thơ hay / Làm quan nhưng bị Nguyễn triều không ưa / Tham gia khởi nghĩa nông dân / Chẳng may chết trận, thương đời tài hoa?",
+        "x": "cao bá quát",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 22,
+        "Dokho": 2,
+        "Quiz": "Quần rộng nhất là quần gì?",
+        "x": "quần đảo",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 23,
+        "Dokho": 2,
+        "Quiz": "Một thành phố biển. Tên gọi có RĂNG. Đố hữu, đố bằng. Biết chăng nhanh đáp",
+        "x": "nha trang",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 24,
+        "Dokho": 2,
+        "Quiz": "Đố chơi, đố chọc. Vùa học vừa vui. Ai biết giúp tui. Kể tên ba tỉnh. Có ba con vật hiện ra",
+        "x": "sóc trăng, đồng nai, sơn la",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 25,
+        "Dokho": 1,
+        "Quiz": "Sông nào đỏ lớp phù sa?",
+        "x": "sông hồng",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 26,
+        "Dokho": 2,
+        "Quiz": "Trên trời có ông sao tua. Ớ đâu lại có nhiều dừa bạn ơi?",
+        "x": "bến tre",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 27,
+        "Dokho": 2,
+        "Quiz": "Bài hát Lý cây đa thuộc dân ca vùng nào?",
+        "x": "dân ca quan họ bắc ninh",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 28,
+        "Dokho": 2,
+        "Quiz": "Giá trị trường độ lớn nhất của nhịp 4/4 là:",
+        "x": "nốt tròn",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 29,
+        "Dokho": 2,
+        "Quiz": "Nhạc sĩ thiên tài W.A.Mozart là người nước nào?",
+        "x": "áo",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 30,
+        "Dokho": 2,
+        "Quiz": "Nhạc sĩ thiên tài Ludwig van Beethoven mất năm bao nhiêu?",
+        "x": "1827",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 31,
+        "Dokho": 2,
+        "Quiz": "Điền từ cho câu hát sau đúng: Không X thêm một ai nữa.",
+        "x": "cần",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 32,
+        "Dokho": 2,
+        "Quiz": "Giải hệ phương trình: x + 2y = 6; x - y = 3",
+        "x": "4",
+        "y":"1",
+        "z":""
+    },
+    {
+        "id": 33,
+        "Dokho": 2,
+        "Quiz": "Những nguyên tử có cùng số proton nhưng khác nhau về số nơtron được gọi là gì?",
+        "x": "đồng vị",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 34,
+        "Dokho": 2,
+        "Quiz": "Ở lớp thứ 3 của vỏ electron nguyên tử có tối đa bao nhiêu electron?",
+        "x": "18",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 35,
+        "Dokho": 3,
+        "Quiz": "Ai là người đầu tiên công bố “bảng tuần hoàn các nguyên tố hóa học”?",
+        "x": "Đi-mi-tri I-va-no-vich Men-đe-le-ep",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 36,
+        "Dokho": 3,
+        "Quiz": "Nước Javen là gì?",
+        "x": "dung dịch chứa hỗn hợp muối NaCl và NaClO",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 37,
+        "Dokho": 1,
+        "Quiz": "Trong cấu tạo nguyên tử, hạt cơ bản nào mang điện tích âm?",
+        "x": "electron",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 38,
+        "Dokho": 3,
+        "Quiz": "Tổng số hạt proton và notron của hạt nhân nguyên tử được còn được gọi là gì?",
+        "x": "số khối",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 39,
+        "Dokho": 3,
+        "Quiz": "Nguyên tố hóa học nào phổ biến nhất trong vũ trụ?",
+        "x": "hidro",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 40,
+        "Dokho": 3,
+        "Quiz": "Có mấy nguyên tắc sắp xếp các nguyên tố trong bảng tuần hoàn?",
+        "x": "3",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 41,
+        "Dokho": 1,
+        "Quiz": " Công thức hóa học của nước là gì?",
+        "x": "H2O",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 42,
+        "Dokho": 3,
+        "Quiz": "Quyển sách vật lý đầu tiên là do ai viết?",
+        "x": "aristote",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 43,
+        "Dokho": 1,
+        "Quiz": "Loại cá được thả trong ngày ông công ông táo",
+        "x": "cá chép",
+        "y":"",
+        "z":""
+
+    },
+    {
+    	"id": 44,
+        "Dokho": 1,
+        "Quiz": "Món ăn truyền thống của miền nam trong tết nguyên đán",
+        "x": "bánh tét",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 45,
+        "Dokho": 3,
+        "Quiz": "x+(x+1)+(x+2)+(x+3)+...+(x+30) = 1240",
+        "x": "25",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 46,
+        "Dokho": 3,
+        "Quiz": "1+2+3+...+x = 210",
+        "x": "20",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 47,
+        "Dokho": 2,
+        "Quiz": "1 Hình tròn có bán kính là 3.5, hỏi diện tích của nó X = ? (chỉ lấy 1 chữ số sau dấu phẩy, coi Pi = 3.14)",
+        "x": "38.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 48,
+        "Dokho": 3,
+        "Quiz": "(x+1)+(x+2)+(x+3)+.....+(x+30) = 795",
+        "x": "11",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 49,
+        "Dokho": 3,
+        "Quiz": "(x+1)+(x+2)+(x+3)+........+(x+100) = 5750",
+        "x": "7",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 50,
+        "Dokho": 2,
+        "Quiz": "Hình chữ nhật có chiểu rộng = 2.3, chiều dài = 6.12, hỏi diện tích x = ? (làm tròn 2 chữ số sau dấu phẩy)",
+        "x": "14.08",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 51,
+        "Dokho": 1,
+        "Quiz": "461+(x-45) = 387",
+        "x": "-29",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 52,
+        "Dokho": 1,
+        "Quiz": "11-(-53+x) = 97",
+        "x": "-33",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 53,
+        "Dokho": 1,
+        "Quiz": "Tam giác có đáy = 4.1, chiều cao tương ứng đáy = 2.332, hỏi diện tích tam giác X = ? (làm tròn 2 số sau dấu phẩy)",
+        "x": "9.56",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 54,
+        "Dokho": 1,
+        "Quiz": "-(x+84)+213 = -16",
+        "x": "145",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 55,
+        "Dokho": 1,
+        "Quiz": "Tìm x: x + x -1 +x - 2+ x- 3 + x- 4 + ....+x - 50 = 255",
+        "x": "30",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 56,
+        "Dokho": 2,
+        "Quiz": "1/3*x - 2/5*y = 7/9 ; x + 2y = -2",
+        "x": "17/24",
+        "y":"-65/48",
+        "z":""
+    },
+    {
+    	"id": 57,
+        "Dokho": 1,
+        "Quiz": "Có 1 con trâu. Đầu nó thì hướng về hướng mặt trời mọc, nó quay trái 2 vòng sau đó quay ngược lại sau đó lại quay phải 2 vòng hỏi cái đuôi của nó chỉ hướng nào?",
+        "x": "Chỉ xuống đất",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 58,
+        "Dokho": 1,
+        "Quiz": "Con trai có gì quý nhất?",
+        "x": "ngọc",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 59,
+        "Dokho": 2,
+        "Quiz": "Nắng ba năm ta chưa hề bỏ bạn, là cái gì?",
+        "x": "cái bóng",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 60,
+        "Dokho": 1,
+        "Quiz": "x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x = 9",
+        "x": "9/16",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 61,
+        "Dokho": 1,
+        "Quiz": "Con đường nào dài nhất?",
+        "x": "đường đời",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 62,
+        "Dokho": 1,
+        "Quiz": "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài?",
+        "x": "dùng ống hút",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 63,
+        "Dokho": 1,
+        "Quiz": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "x": "quan tài",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 64,
+        "Dokho": 1,
+        "Quiz": "Cơ quan quan trọng nhất của phụ nữ là gì?",
+        "x": "hội Liên Hiệp Phụ Nữ",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 65,
+        "Dokho": 1,
+        "Quiz": "Bệnh gì mà bác sỹ bó tay?",
+        "x": "gãy tay",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 66,
+        "Dokho": 1,
+        "Quiz": "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi chết mấy con?",
+        "x": "15",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 67,
+        "Dokho": 1,
+        "Quiz": "Càng chơi càng ra nước",
+        "x": "chơi cờ",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 68,
+        "Dokho": 1,
+        "Quiz": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi?",
+        "x": "73",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 69,
+        "Dokho": 1,
+        "Quiz": "Lịch nào dài nhất?",
+        "x": "lịch sử",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 70,
+        "Dokho": 1,
+        "Quiz": "Cái gì dài như trái chuối, cầm 1 lúc thì nó chảy nước ra?",
+        "x": "que kem",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 71,
+        "Dokho": 1,
+        "Quiz": "Tại sao khi bắn súng người ta lại nhắm một mắt?",
+        "x": "nhắm cả hai mắt thì không nhìn thấy mục tiêu bắn",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 72,
+        "Dokho": 1,
+        "Quiz": "Bên trái đường có một căn nhà xanh, bên phải đường có một căn nhà đỏ. Vậy, nhà Trắng ở đâu?",
+        "x": "mỹ",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 73,
+        "Dokho": 1,
+        "Quiz": "x + 2 = 13 - x",
+        "x": "5.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 74,
+        "Dokho": 1,
+        "Quiz": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "x": "quả bóng",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 75,
+        "Dokho": 1,
+        "Quiz": "Xã nào đông nhất?",
+        "x": "xã hội",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 76,
+        "Dokho": 1,
+        "Quiz": "Con gì không gáy ò ó o mà người ta vẫn gọi là gà?",
+        "x": "gà mái và gà con",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 77,
+        "Dokho": 1,
+        "Quiz": "Làm sao để cái cân tự cân chính nó?",
+        "x": "lật ngược cái cân lại",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 78,
+        "Dokho": 1,
+        "Quiz": "x+x+x+x+3x+2x+4x+5x = 10",
+        "x": "5/9",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 79,
+        "Dokho": 1,
+        "Quiz": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+        "x": "bàn chân",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 80,
+        "Dokho": 1,
+        "Quiz": "Lớp học vào lớp lúc 7h, An dậy muộn 5 phút, từ nhà An đến trường mất 5 phút, nếu đánh răng mất 3 phút, nếu rửa mặt mất 2 phút, nếu mặc quần áo đồng phục mất 5 phút, An quyết định không đánh răng vào rửa mặt, hỏi An đi muộn bao nhiêu phút?",
+        "x": "15",
+        "y":"",
+        "z":""
+    },   
+    {
+    	"id": 81,
+        "Dokho": 1,
+        "Quiz": "Núi nào bị chặt ra từng khúc?",
+        "x": "thái Sơn",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 82,
+        "Dokho": 2,
+        "Quiz": "Tìm ƯCLN của: 56 và 140",
+        "x": "28",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 83,
+        "Dokho": 2,
+        "Quiz": "Mai và Lan mỗi người mua cho tổ mình một số hộp bút chì màu. Mai mua 28 bút, Lan mua 36 bút. Số bút trong các hộp bút đều bằng nhau và số bút trong mỗi hộp lớn hơn 2. Hỏi Mai mua bao nhiêu hộp bút chì màu (x = ?), Lan mua bao nhiêu hộp bút chì màu (y=?)",
+        "x": "7",
+        "y":"9",
+        "z":""
+    },
+    {
+    	"id": 84,
+        "Dokho": 2,
+        "Quiz": "Tìm ƯCLN của: 60 và 180",
+        "x": "60",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 85,
+        "Dokho": 2,
+        "Quiz": "Tìm số tự nhiên x nhỏ nhất khác 0 biết rằng x chia hết cho 15 và x chia hết cho 18",
+        "x": "90",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 86,
+        "Dokho": 2,
+        "Quiz": "Hai bạn An và Bách cùng học một trường nhưng ở hai lớp khác nhau. An cứ 10 ngày lại trực nhật, Bách cứ 12 ngày lại trực nhật. Lần đầu cả hai bạn cùng trực nhật vào một ngày. Hỏi sau ít nhất bao nhiêu ngày thì hai bạn lại cùng trực nhật ?",
+        "x": "60",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 87,
+        "Dokho": 2,
+        "Quiz": "Học sinh lớp 6C khi xếp hàng 2, hàng 3, hàng 4, hàng 8 đều vừa đủ hàng. Biết số học sinh lớp đó trong khoảng từ 35 đến 60. Tính số học sinh của lớp 6C.",
+        "x": "48",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 88,
+        "Dokho": 2,
+        "Quiz": "Hai đội công nhân trồng một số cây như nhau. Mỗi công nhân đội I phải trồng 8 cây, mỗi công nhân đội II phải trồng 9 cây. Tính số cây mỗi đội phải trồng, biết rằng số cây đó trong khoảng từ 100 đến 200.",
+        "x": "144",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 89,
+        "Dokho": 2,
+        "Quiz": "Tìm số tự nhiên x biết rằng : x chia hết cho 39, x chia hết cho 65, x chia hết cho 91 và 4000 < x < 6000",
+        "x": "4095",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 90,
+        "Dokho": 2,
+        "Quiz": "Tìm số tự nhiên nhỏ nhất mà khi chia số ấy lần lượt cho 2, 3, 4, 5, 7, 8, 9, 10 sẽ có số dư tương ứng là 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+        "x": "2519",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 91,
+        "Dokho": 1,
+        "Quiz": "An muốn được 7 điểm trung bình môn, biết chuyên cần (10%) An được 5, giữa kỳ (10%) được 8, BTL (10%) được 3, hỏi thi cuối kỳ phải đạt ít nhất bao nhiêu điểm (số nguyên)?",
+        "x": "8",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 92,
+        "Dokho": 1,
+        "Quiz": "Bình muốn được 8 điểm trung bình môn PTTK, biết chuyên cần (10%) Bình được 9, giữa kỳ (10%) được 5, BTL (20%) được 6, hỏi thi cuối kỳ phải đạt ít nhất bao nhiêu điểm?",
+        "x": "9",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 93,
+        "Dokho": 1,
+        "Quiz": "Cường muốn được 4 điểm trung bình môn LTM để qua môn, biết chuyên cần (10%) Cường được 1, giữa kỳ (10%) được 3, BTL (20%) được 5, hỏi thi cuối kỳ phải đạt ít nhất bao nhiêu điểm? Biết có dạng điểm tròn và điểm ,5",
+        "x": "4.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 94,
+        "Dokho": 1,
+        "Quiz": "Dương phấn đấu được 8.5 điểm trung bình môn LT Web để đạt A, biết chuyên cần (10%) Dương được 7, giữa kỳ (10%) được 6, bài tập (10%) được 7, hỏi thi cuối kỳ phải đạt ít nhất bao nhiêu điểm? Biết có dạng điểm tròn và điểm ,5",
+        "x": "9.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 95,
+        "Dokho": 1,
+        "Quiz": "Hải phấn đấu được 6.5 điểm trung bình môn CSDL phân tán, biết chuyên cần (10%) Hải được 7, giữa kỳ (20%) được 8, bài tập lớn (20%) được 5, hỏi thi cuối kỳ phải đạt ít nhất bao nhiêu điểm? Biết có dạng điểm tròn và điểm ,5",
+        "x": "6.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 96,
+        "Dokho": 2,
+        "Quiz": "7/5 * x - 2 / 5 * y = 2; 2/9 * x - y = 3 Giải Pt, ghi kq dạng phân số.",
+        "x": "36/59",
+        "y":"-169/59",
+        "z":""
+    },
+    {
+    	"id": 97,
+        "Dokho": 1,
+        "Quiz": "x/y = 2/3; x+y-10 = 0",
+        "x": "4",
+        "y":"6",
+        "z":""
+    },
+    {
+    	"id": 98,
+        "Dokho": 1,
+        "Quiz": "0.2x + 0.1y = 0.3; 3x+y = 5",
+        "x": "2",
+        "y":"-1",
+        "z":""
+    },
+    {
+    	"id": 99,
+        "Dokho": 3,
+        "Quiz": "1/x + 1/y = 1/12; 8/x + 15/y = 1",
+        "x": "28",
+        "y":"21",
+        "z":""
+    },
+    {
+    	"id": 100,
+        "Dokho": 3,
+        "Quiz": "2 / (x+2y) + 1 / (y+2x) = 3 ; 4 / (x+2y) - 3 / (y+2x) = 1",
+        "x": "1/3",
+        "y":"1/3",
+        "z":""
+    },
+    {
+    	"id": 101,
+        "Dokho": 3,
+        "Quiz": "3x/(x+1) - 2/(y+4) = 4; 2x/(x+1) - 5/(y+4) = 9",
+        "x": "2/9",
+        "y":"-87/19",
+        "z":""
+    },
+    {
+    	"id": 102,
+        "Dokho": 2,
+        "Quiz": "x^2 + y^2 = 13; 3x^2 - 2y^2 = -6;",
+        "x": "2",
+        "y":"3",
+        "z":""
+    },
+    {
+    	"id": 103,
+        "Dokho": 2,
+        "Quiz": "2(x+y)+3(x-y) = 4; (x+y)+2(x-y)=5",
+        "x": "-1/2",
+        "y":"-13/2",
+        "z":""
+    },
+    {
+    	"id": 104,
+        "Dokho": 3,
+        "Quiz": "(2x-3)(2y+4)=4x(y-3)+54; (x+1)(3y-3) = 3y(x+1)-12",
+        "x": "3",
+        "y":"-1",
+        "z":""
+    },
+    {
+    	"id": 105,
+        "Dokho": 2,
+        "Quiz": "(x+20)(y-1)=xy ; (x-10)(y+1) = xy",
+        "x": "40",
+        "y":"3",
+        "z":""
+    },
+    {
+    	"id": 106,
+        "Dokho": 1,
+        "Quiz": "Chuyển hỗn số sau sang phân số (tối giản): 4&1/3",
+        "x": "13/3",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 107,
+        "Dokho": 1,
+        "Quiz": "Chuyển hỗn số sau sang phân số (tối giản): 5&7/3",
+        "x": "22/3",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 108,
+        "Dokho": 1,
+        "Quiz": "Chuyển hỗn số sau sang phân số (tối giản): 4&22/64",
+        "x": "139/32",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 109,
+        "Dokho": 1,
+        "Quiz": "Chuyển hỗn số sau sang phân số (tối giản): 22&3/7",
+        "x": "157/7",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 110,
+        "Dokho": 1,
+        "Quiz": "Chuyển hỗn số sau sang phân số (tối giản): 11&9/7",
+        "x": "86/7",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 111,
+        "Dokho": 1,
+        "Quiz": "Cộng hỗn số: 11&9/7 + 2&4/5",
+        "x": "528/35",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 112,
+        "Dokho": 1,
+        "Quiz": "Hình vuông có độ dài cạnh = 4, hỏi chu vi",
+        "x": "16",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 113,
+        "Dokho": 1,
+        "Quiz": "Hình vuông có độ dài cạnh 2.6, hỏi diện tích (làm tròn 2 số sau dấu phẩy)",
+        "x": "6.76",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 114,
+        "Dokho": 1,
+        "Quiz": "Hình chữ nhật có chiều rộng 5, diện tích 92.74, hỏi chiều dài (làm tròn 2 số sau dấu phẩy)",
+        "x": "18.55",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 115,
+        "Dokho": 2,
+        "Quiz": "Hình tam giác có độ dài 3 cạnh là 22.6, 10.3, 15.2, hỏi chu vi?",
+        "x": "48.1",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 116,
+        "Dokho": 2,
+        "Quiz": "Hình tam giác có độ dài 3 cạnh là 22.6, 10.3, 15.2, hỏi diện tích(làm tròn 2 số sau dấu phẩy?",
+        "x": "65.14",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 117,
+        "Dokho": 1,
+        "Quiz": "Hình tam giác có độ dài 3 cạnh là 5,4,3 hỏi diện tích(làm tròn 2 số sau dấu phẩy?",
+        "x": "6",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 118,
+        "Dokho": 2,
+        "Quiz": "Hình tam giác có độ dài 3 cạnh là 2.6, 1.7, 1.4, hỏi diện tích(làm tròn 2 số sau dấu phẩy?",
+        "x": "1.09",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 119,
+        "Dokho": 1,
+        "Quiz": "Hình thang có đáy lớn = 3, dáy bé = 2. chiều cao = 4, diện tích = ?",
+        "x": "10",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 120,
+        "Dokho": 1,
+        "Quiz": "Hình thang có đáy lớn = 3.5, dáy bé = 2.6565. chiều cao = 4.82, diện tích = ?",
+        "x": "29.67",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 121,
+        "Dokho": 1,
+        "Quiz": "4x^2 + 28x + 49 = 0",
+        "x": "-7/2",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 122,
+        "Dokho": 1,
+        "Quiz": "x + y = 25 ; xy = 120. Hỏi x = ? Biết (x > y)",
+        "x": "18.52",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 123,
+        "Dokho": 1,
+        "Quiz": "x + y = 25 ; xy = 120. Hỏi y = ? Biết (x > y)",
+        "x": "",
+        "y":"6.48",
+        "z":""
+    },
+    {
+    	"id": 124,
+        "Dokho": 1,
+        "Quiz": "x + y = 11; x.y = 28. (x>y) Hỏi x = ?",
+        "x": "7",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 125,
+        "Dokho": 1,
+        "Quiz": "x + y = 11; x.y = 28. Hỏi x = ? Biết y là số chẵn",
+        "x": "7",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 126,
+        "Dokho": 1,
+        "Quiz": "3000 ; 4000 ; 5000 ; x ; y ; z ",
+        "x": "6000",
+        "y":"7000",
+        "z":"8000"
+    },
+    {
+    	"id": 127,
+        "Dokho": 1,
+        "Quiz": "1 ; 3 ; x ; 27 ; 81 ; y ; 729 ; 2187 ; 6561 ; z... Hỏi x,y,z = ?",
+        "x": "9",
+        "y":"243",
+        "z":"19683"
+    },
+    {
+    	"id": 128,
+        "Dokho": 2,
+        "Quiz": "Người ta đã dùng 201 chữ số để đánh số thứ tự các trang của một quyển sách. Hỏi quyển sách đó dày bao nhiêu trang?",
+        "x": "103",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 129,
+        "Dokho": 2,
+        "Quiz": "Cho dãy số: 1 ; 2 ; 3 ; ... ; ... ; 120. Tìm số chữ số có trong dãy số",
+        "x": "252",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 130,
+        "Dokho": 1,
+        "Quiz": "Tính tổng các số hạng của dãy số: 3 ; 6 ; 9 ; ... ; ... ; 99",
+        "x": "1683",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 131,
+        "Dokho": 2,
+        "Quiz": "Có bao nhiêu số có bốn chữ số lớn hơn 2013 và bé hơn 3000?",
+        "x": "986",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 132,
+        "Dokho": 1,
+        "Quiz": "1! + 2! + 3! + 4!",
+        "x": "33",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 133,
+        "Dokho": 1,
+        "Quiz": "1! + 2! + 3! - 4!",
+        "x": "-15",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 134,
+        "Dokho": 1,
+        "Quiz": "Tam giác có một góc 40 độ và một góc 50 độ là tam giác gì?",
+        "x": "vuông",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 135,
+        "Dokho": 2,
+        "Quiz": "1 Hộp đựng 6 bi đỏ, 4 bi xanh, lần lượt lấy 2 viên bi từ hộp, xác suất để bi lấy được lần 2 là màu xanh (Kết quả ghi dạng số thập phân)",
+        "x": "0.4",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 136,
+        "Dokho": 3,
+        "Quiz": "1 Hộp đựng 10 viên bi đỏ, 8 viên bi vàng, 6 viên bi xanh. Ngẫu nhiên lấy 4 viên bi, xác xuất lấy đủ cả ba màu (KQ ghi số thập phân)",
+        "x": "0.474",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 137,
+        "Dokho": 3,
+        "Quiz": "Có 20 tấm thẻ đánh số từ 1 đến 20. Lấy ngẫu nhiên 5 tấm thẻ. Tính xác suất để trong 5 thẻ được chọn có 3 tấm thẻ mang số lẻ, 2 tấm thẻ mang số chẵn, trong đó chỉ có đúng 1 tấm có số chia hết cho 4 (KQ ghi dạng phân số)",
+        "x": "125/646",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 138,
+        "Dokho": 2,
+        "Quiz": "1 Tổ có 5 học sinh nam và 6 học sinh nữ. Thầy giáo chọn ngẫu nhiên 3 học sinh làm trực nhật, Tính xác suất để có cả nam và nữ (KQ ghi dạng phân số)",
+        "x": "9/11",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 139,
+        "Dokho": 2,
+        "Quiz": "1 người có 10 đôi giày khác nhau, trong lúc đi du lịch vội vã lấy ngẫu nhiên 4 chiếc, tính xác xuất để 4 chiếc lấy ra có ít nhất 1 đôi.(KQ ghi dạng phân số)",
+        "x": "672/969",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 140,
+        "Dokho": 2,
+        "Quiz": "Có 13 tấm thẻ phân biệt trong đó có 1 tấm thẻ ghi chữ QUA, 1 tấm thẻ ghi chữ MÔN, 1 tấm thẻ ghi chữ LTM, và 10 tấm thẻ đánh số lần lượt từ 0-9. Lấy ngẫu nhiên ra 7 thẻ, tính xác xuất để rút được 7 thẻ: QUA; MÔN; LTM; 2;0;1;8 (Kết quả ghi dạng phân số)",
+        "x": "1/1716",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 141,
+        "Dokho": 1,
+        "Quiz": "Một lớp có 40 học sinh, đăng ký chơi ít nhất một trong hai môn thể thao bóng đá và cầu lông. Có 30 học sinh đăng ký bóng đá, 25 học sinh đăng ký cầu lông. Hỏi có bao nhiêu học sinh đăng ký cả 2 môn thể thao ?",
+        "x": "15",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 142,
+        "Dokho": 3,
+        "Quiz": "Mỗi người sử dụng mạng máy tính đều có mật khẩu. Giả sử mỗi mật khẩu gồm 6 ký tự, mỗi ký tự hoặc là 1 chữ số (từ 0 đến 9) hoặc là 1 chữ cái (trong bảng 26 chữ cái tiếng Anh) và mật khẩu phải có ít nhất 1 chữ số. Có thể lập được nhiều nhất bao nhiêu mật khẩu ?",
+        "x": "1867866560",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 143,
+        "Dokho": 1,
+        "Quiz": "Cần sắp xếp 5 học sinh A, B, C, D, E thành một hàng ngang. Hỏi có bao nhiêu cách sắp xếp sao cho 2 học sinh A, và B luôn đứng ở đầu hàng ?",
+        "x": "12",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 144,
+        "Dokho": 1,
+        "Quiz": "Có 4 nữ tên là: Huệ, Hồng, Lan, Hương và 4 nam tên là An, Bình, Hạnh, Phúc cùng ngồi quanh một bàn tròn có 8 chỗ. Hỏi có bao nhiêu cách sắp xếp biết nam và nữ ngồi xen kẽ nhau ?",
+        "x": "144",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 145,
+        "Dokho": 1,
+        "Quiz": "Có bao nhiêu số nguyên tố nhỏ hơn 100",
+        "x": "25",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 146,
+        "Dokho": 2,
+        "Quiz": "Có bao nhiêu số nguyên tố nhỏ hơn 1000",
+        "x": "168",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 147,
+        "Dokho": 1,
+        "Quiz": "1 độ C bằng bao nhiêu độ F",
+        "x": "33.8",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 148,
+        "Dokho": 1,
+        "Quiz": "1 độ C bằng bao nhiêu độ K",
+        "x": "274.15",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 149,
+        "Dokho": 2,
+        "Quiz": "Một vật khối lượng 1 kg, ở trên mặt đất có trọng lượng 10N. Khi chuyển vật tới một điểm cách tâm Trái Đất 2R (R là bán kính của Trái Đất) thì nó có trọng lượng bằng bao nhiêu?",
+        "x": "2.5",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 150,
+        "Dokho": 2,
+        "Quiz": "Cho dd chứa m gam BaCl2 tác dụng với dd H2SO4 dư tạo thành 4,66 gam kết tủa. Tính m.",
+        "x": "4.16",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 151,
+        "Dokho": 3,
+        "Quiz": "Cho 3g hỗn hợp gồm (magie) Mg và (đồng) Cu tác dụng với dd HCl dư thoát ra 1,568 lit khí H2. Tính khối lượng Mg (x=?) và Cu(y=?) trong hỗn hợp",
+        "x": "1.68",
+        "y":"1.32",
+        "z":""
+    },
+    {
+    	"id": 152,
+        "Dokho": 3,
+        "Quiz": "Cho 1,68g (canxi ôxit) CaO hòa tan hoàn trong 300g H2O. tính nồng độ phần trăm (C%) của dd thu được",
+        "x": "0.736",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 153,
+        "Dokho": 3,
+        "Quiz": "Cho 37,2 gam hỗn hợp gồm Fe, FeO, Fe2O3 hòa tan hoàn toàn trong HNO3 đặc dư thu được 24,64 lit khí (đktc). Cô cạn dd thu được 169,4 gam muối khan. Hỏi mFe, mFeO, mFe2O3 =?",
+        "x": "16.8",
+        "y":"14.4",
+        "z":"16"
+    },
+    {
+    	"id": 154,
+        "Dokho": 1,
+        "Quiz": "Bộ nhiễm sắc thể của người là 2n=",
+        "x": "46",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 155,
+        "Dokho": 1,
+        "Quiz": "Tim có mấy ngăn?",
+        "x": "4",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 156,
+        "Dokho": 1,
+        "Quiz": "1 năm có mấy mùa?",
+        "x": "4",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 157,
+        "Dokho": 1,
+        "Quiz": "Tháng 10 có bao nhiêu ngày?",
+        "x": "31",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 158,
+        "Dokho": 1,
+        "Quiz": "Có bao nhiêu hành tinh quay quanh mặt trời",
+        "x": "8",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 159,
+        "Dokho": 1,
+        "Quiz": "Trái đất là hành tinh thứ mấy trong hệ mặt trời?",
+        "x": "3",
+        "y":"",
+        "z":""
+    },
+    {
+    	"id": 160,
+        "Dokho": 1,
+        "Quiz": "Việt Nam có bao nhiêu tỉnh?",
+        "x": "63",
+        "y":"",
+        "z":""
+    },
+    {
+        "id": 161,
+        "Dokho": 3,
+        "Quiz": "Trong bảng hệ thống tuần hoàn nguyên tố có tính phi kim mạnh nhất là gì?",
+        "x": "flo",
+        "y":"",
+        "z":""
+    }    
+]
